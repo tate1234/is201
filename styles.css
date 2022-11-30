@@ -1,0 +1,47 @@
+body{
+    color: rgb(205, 179, 53);
+    background-color: beige;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dTBSobUnoy1D4DvC0Gjm_BKPYLll5Qgitw&usqp=CAU");
+    background-size: fill;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: darkseagreen;
+    font-weight: bold;
+    text-align: center;
+}
+.llama{
+    border: solid 2px magenta;
+    font-family: papyrus;
+    background-color: red;
+    color: blue;
+    font-size: 120%;
+}
+a:hover{
+    text-decoration: overline;
+    font-size: 110%;
+    background-color: grey;
+}
+.llama:hover{
+    text-decoration: wavy;
+    font-size: 150%;
+    background-color: chartreuse;
+}
+li:hover{
+    font-size: 105%;
+    background-color: antiquewhite;
+    border: 2px solid red;
+}
+img{
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    max-width: 20%;
+
+
+}
